@@ -55,8 +55,6 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="OPm-Y1-hU2" firstAttribute="top" secondItem="tfq-yz-F6S" secondAttribute="bottom" constant="103.5" id="0PA-0l-1d2"/>
-                            <constraint firstItem="7gA-AZ-T2A" firstAttribute="top" secondItem="OPm-Y1-hU2" secondAttribute="bottom" constant="40" id="9qT-3q-dG8"/>
                             <constraint firstItem="tfq-yz-F6S" firstAttribute="top" secondItem="Nkw-Bn-WNu" secondAttribute="bottom" constant="20" id="BXb-z9-h90"/>
                             <constraint firstItem="7gA-AZ-T2A" firstAttribute="top" secondItem="OPm-Y1-hU2" secondAttribute="bottom" constant="20" id="KMB-yg-sZT"/>
                             <constraint firstItem="Nkw-Bn-WNu" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="100" id="NO8-hf-OAE"/>
